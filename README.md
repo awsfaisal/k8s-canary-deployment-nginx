@@ -85,3 +85,11 @@ Labels & Selectors
 Canary Deployment Strategy
 
 AWS LoadBalancer (ELB)
+## 📂 Recommended Repo Structure
+kubernetes-canary-deployment/
+├── README.md
+└── k8s/
+├── nginx-v1.yml
+├── nginx-v2.yml
+└── nginx-service.yml
+
